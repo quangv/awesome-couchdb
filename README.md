@@ -21,6 +21,7 @@ Pull-Requests are welcomed.
 ## Patterns & Best Practices
 
 - [CouchDB Best Practices](http://ehealthafrica.github.io/couchdb-best-practices/) - CouchDB Best Practices, eHealth Africa
+- [Pagination strategies with PouchDB ](https://pouchdb.com/2014/04/14/pagination-strategies-with-pouchdb.html)
 - [12 pro tips for better code with PouchDB](https://pouchdb.com/2014/06/17/12-pro-tips-for-better-code-with-pouchdb.html)
 
 ## Companies
