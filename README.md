@@ -8,16 +8,26 @@
 
 Pull-Requests are welcomed.
 
+## Books
+
+- [CouchDB - The Definitive Guide](http://guide.couchdb.org/)
+
 
 ## Videos
 
-- [10 Common Misconceptions about CouchDB - Joan Touzet, Atypical](https://www.youtube.com/watch?v=BKQ9kXKoHS810 Common Misconceptions about CouchDB - Joan Touzet, Atypical)
+- [10 Common Misconceptions about CouchDB - Joan Touzet, Atypical](https://www.youtube.com/watch?v=BKQ9kXKoHS810)
 
+
+## Patterns & Best Practices
+
+- [CouchDB Best Practices](http://ehealthafrica.github.io/couchdb-best-practices/) - CouchDB Best Practices, eHealth Africa
+- [12 pro tips for better code with PouchDB](https://pouchdb.com/2014/06/17/12-pro-tips-for-better-code-with-pouchdb.html)
 
 ## Companies
 
 - [Cloudant](https://cloudant.com/) - distributed database as a service (DBaaS)
 - [Couchbase](https://www.couchbase.com/) - NoSQL Database
+- [eHealth Africa](https://github.com/eHealthAfrica) - eHealth Africa
 
 ## Related Projects
 
