@@ -1,7 +1,6 @@
 <p>
   <br>
-  <img width="400" src="https://rawgit.com/quangv/awesome-couchdb/master/logo--couch.png" alt="awesome couchdb logo">
-  <br>
+  <img width="300" src="https://rawgit.com/quangv/awesome-couchdb/master/logo--couch.png" alt="awesome couchdb logo">
   <br>
 </p>
 
