@@ -8,6 +8,12 @@
 
 Pull-Requests are welcomed.
 
+
+## Blogs
+
+- [Official CouchDB Blog](https://blog.couchdb.org/)
+
+
 ## Books
 
 - [CouchDB - The Definitive Guide](http://guide.couchdb.org/)
