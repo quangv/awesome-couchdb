@@ -30,6 +30,12 @@ Pull-Requests are welcomed.
 - [Couchbase](https://www.couchbase.com/) - NoSQL Database
 - [eHealth Africa](https://github.com/eHealthAfrica) - eHealth Africa
 
+
+## Resource Lists
+
+- [Planet CouchDB](https://cwiki.apache.org/confluence/display/COUCHDB/Planet+CouchDB)
+
+
 ## Related Projects
 
 - [PouchDB](https://pouchdb.com/) - a pocket-sized database.
