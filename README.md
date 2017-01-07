@@ -45,6 +45,11 @@ Pull-Requests are welcomed.
 - [IRC](http://webchat.freenode.net/?channels=couchdb) - `irc://irc.freenode.net/couchdb`
 
 
+## Conferences
+
+- [Apache CouchDB Conf](http://conf.couchdb.org/) - (lots of video links)
+
+
 ## Companies
 
 - [Cloudant](https://cloudant.com/) - distributed database as a service (DBaaS)
