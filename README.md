@@ -17,7 +17,7 @@ Pull-Requests are welcomed.
 ## Docs
 
 - [Official CouchDB Docs](http://docs.couchdb.org/)
-
+- [FAQ (old wiki)](https://wiki.apache.org/couchdb/Frequently_asked_questions) - seems to have more faqs than the [new wiki](https://cwiki.apache.org/confluence/display/COUCHDB/Frequently+Asked+Questions)
 
 ## Books
 
@@ -60,7 +60,7 @@ Pull-Requests are welcomed.
 ## Resource Lists
 
 - [Official CouchDB Wiki](https://cwiki.apache.org/confluence/display/COUCHDB/Apache+CouchDB+Wiki)
-- [Official CouchDB Wiki (old)](https://wiki.apache.org/couchdb/)
+- [Official CouchDB Wiki (old)](https://wiki.apache.org/couchdb/) - (some things aren't on new wiki yet)
 
 
 ## Related Projects
