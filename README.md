@@ -37,7 +37,7 @@ Pull-Requests are welcomed.
 
 ## Chat
 
-- `irc://irc.freenode.net/couchdb`
+- [IRC](http://webchat.freenode.net/?channels=couchdb) - `irc://irc.freenode.net/couchdb`
 
 
 ## Companies
