@@ -14,6 +14,11 @@ Pull-Requests are welcomed.
 - [Official CouchDB Blog](https://blog.couchdb.org/)
 
 
+## Docs
+
+- [Official CouchDB Docs](http://docs.couchdb.org/)
+
+
 ## Books
 
 - [CouchDB - The Definitive Guide](http://guide.couchdb.org/)
