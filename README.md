@@ -18,6 +18,10 @@ Pull-Requests are welcomed.
 
 - [CouchDB - The Definitive Guide](http://guide.couchdb.org/)
 
+### List of Books
+
+- [List of books on the CouchDB Wiki](https://cwiki.apache.org/confluence/display/COUCHDB/Books)
+
 
 ## Videos
 
@@ -39,7 +43,8 @@ Pull-Requests are welcomed.
 
 ## Resource Lists
 
-- [Planet CouchDB](https://cwiki.apache.org/confluence/display/COUCHDB/Planet+CouchDB)
+- [Official CouchDB Wiki](https://cwiki.apache.org/confluence/display/COUCHDB/Apache+CouchDB+Wiki)
+- [Official CouchDB Wiki (old)](https://wiki.apache.org/couchdb/)
 
 
 ## Related Projects
