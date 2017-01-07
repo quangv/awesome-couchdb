@@ -66,3 +66,4 @@ Pull-Requests are welcomed.
 ## Related Projects
 
 - [PouchDB](https://pouchdb.com/) - a pocket-sized database.
+- [Hoodie](http://hood.ie/) - a backend for Offline First applications
