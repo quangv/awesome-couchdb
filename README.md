@@ -34,6 +34,12 @@ Pull-Requests are welcomed.
 - [Pagination strategies with PouchDB ](https://pouchdb.com/2014/04/14/pagination-strategies-with-pouchdb.html)
 - [12 pro tips for better code with PouchDB](https://pouchdb.com/2014/06/17/12-pro-tips-for-better-code-with-pouchdb.html)
 
+
+## Chat
+
+- `irc://irc.freenode.net/couchdb`
+
+
 ## Companies
 
 - [Cloudant](https://cloudant.com/) - distributed database as a service (DBaaS)
