@@ -14,6 +14,11 @@ Pull-Requests are welcomed.
 - [Official CouchDB Blog](https://blog.couchdb.org/)
 
 
+### Blog-Posts
+
+- [CouchDB Joins](http://www.cmlenz.net/archives/2007/10/couchdb-joins) - (Oct. 2007) still applies
+
+
 ## Docs
 
 - [Official CouchDB Docs](http://docs.couchdb.org/)
