@@ -54,6 +54,10 @@ Pull-Requests are welcomed.
 - [@cmlenz - CouchDB Joins](http://www.cmlenz.net/archives/2007/10/couchdb-joins) - (Oct. 2007) still applies
 
 
+## Misc/Technical
+
+- [Dynamo and CouchDB Clusters](https://web.archive.org/web/20160311144130/https://cloudant.com/blog/dynamo-and-couchdb-clusters/#.WIEp4xsrKUk)
+
 ## Community
 
 - [IRC](http://webchat.freenode.net/?channels=couchdb) - `irc://irc.freenode.net/couchdb`
