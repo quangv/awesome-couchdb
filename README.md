@@ -62,6 +62,8 @@ Pull-Requests are welcomed.
 
 - [IRC](http://webchat.freenode.net/?channels=couchdb) - `irc://irc.freenode.net/couchdb`
 - [Apache CouchDB Conf](http://conf.couchdb.org/) - (lots of video links)
+- [CouchDB Bylaws](http://couchdb.apache.org/bylaws.html)
+- [CouchDB Mailing List](https://mail-archives.apache.org/mod_mbox/couchdb-user/)
 
 
 ## Companies
