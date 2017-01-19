@@ -14,11 +14,6 @@ Pull-Requests are welcomed.
 - [Official CouchDB Blog](https://blog.couchdb.org/)
 
 
-### Blog-Posts
-
-- [CouchDB Joins](http://www.cmlenz.net/archives/2007/10/couchdb-joins) - (Oct. 2007) still applies
-
-
 ## Docs
 
 - [Official CouchDB Docs](http://docs.couchdb.org/)
@@ -45,6 +40,20 @@ Pull-Requests are welcomed.
 - [CouchDB Best Practices](http://ehealthafrica.github.io/couchdb-best-practices/) - CouchDB Best Practices, eHealth Africa
 - [Pagination strategies with PouchDB ](https://pouchdb.com/2014/04/14/pagination-strategies-with-pouchdb.html)
 - [12 pro tips for better code with PouchDB](https://pouchdb.com/2014/06/17/12-pro-tips-for-better-code-with-pouchdb.html)
+
+
+### Map/Reduce
+
+- [PouchDB - Secondary Indexes](https://pouchdb.com/2014/05/01/secondary-indexes-have-landed-in-pouchdb.html)
+- [Cloudant - MapReduce Primer](https://cloudant.com/blog/mapreduce-from-the-basics-to-the-actually-useful/#.WIDBfRsrKUl)
+- [CouchDB - Using View Collation](http://docs.couchdb.org/en/2.0.0/couchapp/views/joins.html#using-view-collation)
+- [CouchDB - Views Collation](http://docs.couchdb.org/en/2.0.0/couchapp/views/collation.html)
+- [Cloudant - MapReduce and the Secondary Index](https://developer.ibm.com/clouddataservices/docs/cloudant/get-started/mapreduce-and-the-secondary-index/) - (video)
+
+
+### Joins
+
+- [@cmlenz - CouchDB Joins](http://www.cmlenz.net/archives/2007/10/couchdb-joins) - (Oct. 2007) still applies
 
 
 ## Chat
