@@ -65,6 +65,8 @@ Pull-Requests are welcomed.
 - [CouchDB Bylaws](http://couchdb.apache.org/bylaws.html)
 - [CouchDB Mailing List](https://mail-archives.apache.org/mod_mbox/couchdb-user/)
 
+[:star2:**The** ***Amazing*** **CouchDB Committers** *and* **Project Managers** :heart_eyes_cat:](http://people.apache.org/committers-by-project.html#couchdb) 
+
 
 ## Companies
 
