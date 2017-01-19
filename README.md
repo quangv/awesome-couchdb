@@ -28,7 +28,7 @@ Pull-Requests are welcomed.
 ## Videos
 
 - [10 Common Misconceptions about CouchDB ](https://www.youtube.com/watch?v=BKQ9kXKoHS810) - more videos from this [conference](http://conf.couchdb.org/)
-- [The NoSQL Tapes](http://nosqltapes.com) - CouchDB is discussed on [Volume 5](http://nosqltapes.com/video/hoffman-and-kocoloski-on-cloudant-and-couchdb)
+- [The NoSQL Tapes](http://nosqltapes.com) - CouchDB is discussed on [Volume 5 - CouchDB](http://nosqltapes.com/video/hoffman-and-kocoloski-on-cloudant-and-couchdb), [Volume 8 - MapReduce](http://nosqltapes.com/video/understanding-mapreduce-with-mike-miller)
 - [IBM - The New Builders Webinar Series](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&partnerref=cdc&eventid=1240121&sessionid=1&key=9E23B44802902EAD0BB2603F0434742E&regTag=35370&sourcepage=register)
 
 
