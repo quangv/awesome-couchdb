@@ -22,9 +22,6 @@ Pull-Requests are welcomed.
 ## Books
 
 - [CouchDB - The Definitive Guide](http://guide.couchdb.org/)
-
-### List of Books
-
 - [List of books on the CouchDB Wiki](https://cwiki.apache.org/confluence/display/COUCHDB/Books)
 
 
@@ -56,13 +53,9 @@ Pull-Requests are welcomed.
 - [@cmlenz - CouchDB Joins](http://www.cmlenz.net/archives/2007/10/couchdb-joins) - (Oct. 2007) still applies
 
 
-## Chat
+## Community
 
 - [IRC](http://webchat.freenode.net/?channels=couchdb) - `irc://irc.freenode.net/couchdb`
-
-
-## Conferences
-
 - [Apache CouchDB Conf](http://conf.couchdb.org/) - (lots of video links)
 
 
