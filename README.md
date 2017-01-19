@@ -43,7 +43,7 @@ Pull-Requests are welcomed.
 ### Map/Reduce
 
 - [PouchDB - Secondary Indexes](https://pouchdb.com/2014/05/01/secondary-indexes-have-landed-in-pouchdb.html)
-- [Cloudant - MapReduce Primer](https://cloudant.com/blog/mapreduce-from-the-basics-to-the-actually-useful/#.WIDBfRsrKUl)
+- [Cloudant - MapReduce Primer](https://cloudant.com/blog/mapreduce-from-the-basics-to-the-actually-useful/#.WIDBfRsrKUl) - great intro on reduce, group, group_level
 - [CouchDB - Using View Collation](http://docs.couchdb.org/en/2.0.0/couchapp/views/joins.html#using-view-collation)
 - [CouchDB - Views Collation](http://docs.couchdb.org/en/2.0.0/couchapp/views/collation.html)
 - [Cloudant - MapReduce and the Secondary Index](https://developer.ibm.com/clouddataservices/docs/cloudant/get-started/mapreduce-and-the-secondary-index/) - (video)
