@@ -26,7 +26,7 @@ Pull-Requests are welcomed.
 
 ### Joins
 
-- [@cmlenz - CouchDB Joins](http://www.cmlenz.net/archives/2007/10/couchdb-joins) - (Oct. 2007) still applies
+- [Joins with Views](http://docs.couchdb.org/en/2.0.0/couchapp/views/joins.html#joins-with-views)
 
 
 ## Blogs
