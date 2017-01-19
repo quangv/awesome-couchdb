@@ -80,6 +80,10 @@ Pull-Requests are welcomed.
 - [Official CouchDB Wiki](https://cwiki.apache.org/confluence/display/COUCHDB/Apache+CouchDB+Wiki)
 - [Official CouchDB Wiki (old)](https://wiki.apache.org/couchdb/) - (some things aren't on new wiki yet)
 
+- [List of CouchDB Clients](https://cwiki.apache.org/confluence/display/COUCHDB/CouchDB+clients)
+- [List of CouchDB Useful Utilities](https://cwiki.apache.org/confluence/display/COUCHDB/Useful+utilities)
+- [Old Wiki's Related Projects List](https://wiki.apache.org/couchdb/Related_Projects)
+
 
 ## Related Projects
 
