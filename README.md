@@ -63,11 +63,17 @@ Pull-Requests are welcomed.
 [:star2:**The** ***Amazing*** **CouchDB Committers** *and* **Project Managers** :heart_eyes_cat:](http://people.apache.org/committers-by-project.html#couchdb) 
 
 
-## Companies
+### Companies
 
 - [Cloudant](https://cloudant.com/) - distributed database as a service (DBaaS)
 - [Couchbase](https://www.couchbase.com/) - NoSQL Database
 - [eHealth Africa](https://github.com/eHealthAfrica) - eHealth Africa
+
+
+### Related Projects
+
+- [PouchDB](https://pouchdb.com/) - a pocket-sized database.
+- [Hoodie](http://hood.ie/) - a backend for Offline First applications
 
 
 ## Misc/Technical
@@ -83,9 +89,3 @@ Pull-Requests are welcomed.
 - [List of CouchDB Clients](https://cwiki.apache.org/confluence/display/COUCHDB/CouchDB+clients)
 - [List of CouchDB Useful Utilities](https://cwiki.apache.org/confluence/display/COUCHDB/Useful+utilities)
 - [Old Wiki's Related Projects List](https://wiki.apache.org/couchdb/Related_Projects)
-
-
-## Related Projects
-
-- [PouchDB](https://pouchdb.com/) - a pocket-sized database.
-- [Hoodie](http://hood.ie/) - a backend for Offline First applications
