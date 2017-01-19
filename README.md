@@ -57,7 +57,7 @@ Pull-Requests are welcomed.
 ## Misc/Technical
 
 - [Dynamo and CouchDB Clusters](https://web.archive.org/web/20160311144130/https://cloudant.com/blog/dynamo-and-couchdb-clusters/#.WIEp4xsrKUk)
-- [Exotic Reductions Examples](http://research.google.com/archive/sawzall.html)
+- [Google’s paper on Sawzall](http://research.google.com/archive/sawzall.html) - Exotic Reductions Examples
 
 ## Community
 
