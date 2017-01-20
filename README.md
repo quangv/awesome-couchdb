@@ -58,7 +58,7 @@ Pull-Requests are welcomed.
 - [IRC](http://webchat.freenode.net/?channels=couchdb) - `irc://irc.freenode.net/couchdb`
 - [Apache CouchDB Conf](http://conf.couchdb.org/) - (lots of video links)
 - [CouchDB Bylaws](http://couchdb.apache.org/bylaws.html), [Minutes](https://whimsy.apache.org/board/minutes/CouchDB.html)
-- [grokbase - CouchDB Mailing Lists](http://grokbase.com/s/couchdb) - CouchDB [Mailing Lists](http://svn.apache.org/repos/asf/couchdb/site/htdocs/community/lists.html?p=900000) in a [StackOverflow](http://stackoverflow.com/questions/tagged/couchdb)-like interface
+- [grokbase](http://grokbase.com/s/couchdb) - [Mailing Lists](https://mail-archives.apache.org/mod_mbox/#couchdb) [(descriptions)](http://svn.apache.org/repos/asf/couchdb/site/htdocs/community/lists.html?p=900000) in a [StackOverflow](http://stackoverflow.com/questions/tagged/couchdb)-like interface
 
 [:star2:**The** ***Amazing*** **CouchDB Committers** *and* **Project Managers** :heart_eyes_cat:](http://people.apache.org/committers-by-project.html#couchdb) 
 
