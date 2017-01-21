@@ -31,6 +31,7 @@ Pull-Requests are welcomed.
 
 ### Document Versioning
 
+- [Document Revisions](https://wiki.apache.org/couchdb/Document_revisions?action=show&redirect=DocumentRevisions) - from wiki
 - [Simple Document Versioning with CouchDB](https://web.archive.org/web/20120118102544/http://blog.couchbase.com/simple-document-versioning-couchdb)
 
 
