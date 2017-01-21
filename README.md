@@ -87,6 +87,7 @@ Pull-Requests are welcomed.
 - [Dynamo and CouchDB Clusters](https://web.archive.org/web/20160311144130/https://cloudant.com/blog/dynamo-and-couchdb-clusters/#.WIEp4xsrKUk)
 - [Google’s paper on Sawzall](http://research.google.com/archive/sawzall.html) - Exotic Reductions Examples
 - [What Every Developer Should Know About CouchDB](http://www.dimagi.com/blog/what-every-developer-should-know-about-couchdb/)
+- [CouchDB Maximum Database Size](http://www.nosql.se/2011/09/couchdb-maximum-database-size/)
 
 
 ## Resource Lists
