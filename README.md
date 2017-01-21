@@ -29,6 +29,11 @@ Pull-Requests are welcomed.
 - [Joins with Views](http://docs.couchdb.org/en/2.0.0/couchapp/views/joins.html#joins-with-views)
 
 
+### Document Versioning
+
+- [Simple Document Versioning with CouchDB](https://web.archive.org/web/20120118102544/http://blog.couchbase.com/simple-document-versioning-couchdb)
+
+
 ## Blogs
 
 - [Official CouchDB Blog](https://blog.couchdb.org/)
