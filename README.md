@@ -22,6 +22,7 @@ Pull-Requests are welcomed.
 - [CouchDB - Using View Collation](http://docs.couchdb.org/en/2.0.0/couchapp/views/joins.html#using-view-collation)
 - [CouchDB - Views Collation](http://docs.couchdb.org/en/2.0.0/couchapp/views/collation.html)
 - [Cloudant - MapReduce and the Secondary Index](https://developer.ibm.com/clouddataservices/docs/cloudant/get-started/mapreduce-and-the-secondary-index/) - (video)
+- [Cloudant - Design Documents](https://docs.cloudant.com/design_documents.html)
 
 
 ### Joins
