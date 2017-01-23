@@ -65,7 +65,17 @@ Pull-Requests are welcomed.
 - [IRC](http://webchat.freenode.net/?channels=couchdb) - `irc://irc.freenode.net/couchdb`
 - [Apache CouchDB Conf](http://conf.couchdb.org/) - (lots of video links)
 - [CouchDB Bylaws](http://couchdb.apache.org/bylaws.html), [Minutes](https://whimsy.apache.org/board/minutes/CouchDB.html)
-- [grokbase](http://grokbase.com/s/couchdb) - [Mailing Lists](https://mail-archives.apache.org/mod_mbox/#couchdb) [(descriptions)](http://svn.apache.org/repos/asf/couchdb/site/htdocs/community/lists.html?p=900000) in a [StackOverflow](http://stackoverflow.com/questions/tagged/couchdb)-like interface
+
+
+### Mailing List
+
+> -dev is where developers of couchdb chat, -user is where users of couchdb chat
+> and there's some crosstalk ofc
+> -dev is appropriate if you're talking about changes to couchdb itself ("developer" doesn't mean you have to have a commit bit or anything) -rnewson
+
+- [Mailing Lists](https://mail-archives.apache.org/mod_mbox/#couchdb) - [(descriptions)](http://svn.apache.org/repos/asf/couchdb/site/htdocs/community/lists.html?p=900000)
+- [grokbase](http://grokbase.com/s/couchdb) - Mailing lists in a [StackOverflow](http://stackoverflow.com/questions/tagged/couchdb)-like interface
+
 
 [:star2:**The** ***Amazing*** **CouchDB Committers** *and* **Project Managers** :heart_eyes_cat:](http://people.apache.org/committers-by-project.html#couchdb) 
 
