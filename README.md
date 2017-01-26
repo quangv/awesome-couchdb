@@ -28,6 +28,7 @@ Pull-Requests are welcomed.
 ### Joins
 
 - [Joins with Views](http://docs.couchdb.org/en/2.0.0/couchapp/views/joins.html#joins-with-views)
+- [Grouping related documents together in Cloudant](https://docs.cloudant.com/transactions.html) - an approach that leverages CouchDB high availability nature.
 
 
 ### Document Versioning
