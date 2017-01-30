@@ -116,7 +116,7 @@ Pull-Requests are welcomed.
 - [Cloudant Backup Guide](https://docs.cloudant.com/backup-guide.html)
 
 
-## CouchApps
+### CouchApps
 
 - [List of CouchApps](https://couchapp.readthedocs.io/en/latest/user/list-of-couchapps.html)
 
