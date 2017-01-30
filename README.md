@@ -116,6 +116,11 @@ Pull-Requests are welcomed.
 - [Cloudant Backup Guide](https://docs.cloudant.com/backup-guide.html)
 
 
+## CouchApps
+
+- [List of CouchApps](https://couchapp.readthedocs.io/en/latest/user/list-of-couchapps.html)
+
+
 ## Resource Lists
 
 - [Official CouchDB Wiki](https://cwiki.apache.org/confluence/display/COUCHDB/Apache+CouchDB+Wiki)
