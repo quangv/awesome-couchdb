@@ -23,6 +23,7 @@ Pull-Requests are welcomed.
 - [CouchDB - Views Collation](http://docs.couchdb.org/en/2.0.0/couchapp/views/collation.html)
 - [Cloudant - MapReduce and the Secondary Index](https://developer.ibm.com/clouddataservices/docs/cloudant/get-started/mapreduce-and-the-secondary-index/) - (video)
 - [Cloudant - Design Documents](https://docs.cloudant.com/design_documents.html)
+- [Cloudant - Design Document Management](https://docs.cloudant.com/design_document_management.html) - how to manage design doc changes in production
 
 
 ### Joins
@@ -112,6 +113,7 @@ Pull-Requests are welcomed.
 ### Backups
 
 - [Simple CouchDB and Cloudant Backup](https://developer.ibm.com/clouddataservices/2016/03/22/simple-couchdb-and-cloudant-backup/)
+- [Cloudant Backup Guide](https://docs.cloudant.com/backup-guide.html)
 
 
 ## Resource Lists
