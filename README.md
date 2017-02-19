@@ -86,6 +86,7 @@ Pull-Requests are welcomed.
 
 - [Cloudant](https://cloudant.com/) - distributed database as a service (DBaaS)
 - [Couchbase](https://www.couchbase.com/) - NoSQL Database
+- [Smileupps](https://www.smileupps.com/) - CouchDB hosting.
 - [eHealth Africa](https://github.com/eHealthAfrica) - eHealth Africa
 
 
@@ -119,6 +120,7 @@ Pull-Requests are welcomed.
 ### CouchApps
 
 - [List of CouchApps](https://couchapp.readthedocs.io/en/latest/user/list-of-couchapps.html)
+- [Ddoc Lab](http://ddoc.me/) - Create couchapps and CouchDB design docs right in your browser.
 
 
 ## Resource Lists
