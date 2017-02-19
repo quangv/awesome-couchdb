@@ -6,6 +6,10 @@
 
 # Awesome CouchDB [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+> A curated meta resources & best practices list for CouchDB.
+
+**[CouchDB](http://couchdb.apache.org/)** is a document-oriented NoSQL database that syncs.
+
 Pull-Requests are welcomed.
 
 ## Patterns & Best Practices
