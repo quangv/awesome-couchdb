@@ -12,6 +12,28 @@
 
 Pull-Requests are welcomed.
 
+## Contents
+
+- [Patterns & Best Practices](#patterns--best-practices)
+  - [Map/Reduce](#mapreduce)
+  - [Joins](#joins)
+  - [Document Versioning](#document-versioning)
+- [Blogs](#blogs)
+- [Docs](#docs)
+- [Books](#books)
+- [Videos](#videos)
+- [Community](#community)
+  - [Mailing List](#mailing-list)
+  - [Companies](#companies)
+  - [Related Projects](#related-projects)
+- [Misc/Technical](#misctechnical)
+  - [Attachments](#attachments)
+  - [Backups](#backups)
+  - [CouchApps](#couchapps)
+  - [Scaling](#scaling)
+- [Resource Lists](#resource-lists)
+- [License](#license)
+
 ## Patterns & Best Practices
 
 - [CouchDB Best Practices](http://ehealthafrica.github.io/couchdb-best-practices/) - CouchDB Best Practices, eHealth Africa
