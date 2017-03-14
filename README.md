@@ -36,7 +36,7 @@ Pull-Requests are welcomed.
 
 ## Patterns & Best Practices
 
-- [CouchDB Best Practices](http://ehealthafrica.github.io/couchdb-best-practices/) - CouchDB Best Practices, eHealth Africa.
+- [Best Practices](http://ehealthafrica.github.io/couchdb-best-practices/) - Best Practices, eHealth Africa.
 - [Pagination strategies with PouchDB ](https://pouchdb.com/2014/04/14/pagination-strategies-with-pouchdb.html)
 - [12 pro tips for better code with PouchDB](https://pouchdb.com/2014/06/17/12-pro-tips-for-better-code-with-pouchdb.html)
 
@@ -45,8 +45,8 @@ Pull-Requests are welcomed.
 
 - [PouchDB - Secondary Indexes](https://pouchdb.com/2014/05/01/secondary-indexes-have-landed-in-pouchdb.html)
 - [Cloudant - MapReduce Primer](https://cloudant.com/blog/mapreduce-from-the-basics-to-the-actually-useful/#.WIDBfRsrKUl) - Great intro on reduce, group, group_level.
-- [CouchDB - Using View Collation](http://docs.couchdb.org/en/2.0.0/couchapp/views/joins.html#using-view-collation)
-- [CouchDB - Views Collation](http://docs.couchdb.org/en/2.0.0/couchapp/views/collation.html)
+- [Using View Collation](http://docs.couchdb.org/en/2.0.0/couchapp/views/joins.html#using-view-collation)
+- [Views Collation](http://docs.couchdb.org/en/2.0.0/couchapp/views/collation.html)
 - [Cloudant - MapReduce and the Secondary Index (Video)](https://developer.ibm.com/clouddataservices/docs/cloudant/get-started/mapreduce-and-the-secondary-index/)
 - [Cloudant - Design Documents](https://docs.cloudant.com/design_documents.html)
 - [Cloudant - Design Document Management](https://docs.cloudant.com/design_document_management.html) - How to manage design doc changes in production.
@@ -61,30 +61,30 @@ Pull-Requests are welcomed.
 ### Document Versioning
 
 - [Document Revisions (from wiki)](https://wiki.apache.org/couchdb/Document_revisions?action=show&redirect=DocumentRevisions)
-- [Simple Document Versioning with CouchDB](http://web.archive.org/web/20100701165612/http://blog.couch.io/post/632718824/simple-document-versioning-with-couchdb)
+- [Simple Document Versioning](http://web.archive.org/web/20100701165612/http://blog.couch.io/post/632718824/simple-document-versioning-with-couchdb)
 
 
 ## Blogs
 
-- [Official CouchDB Blog](https://blog.couchdb.org/)
+- [Official Blog](https://blog.couchdb.org/)
 
 
 ## Docs
 
-- [Official CouchDB Docs](http://docs.couchdb.org/)
+- [Official Docs](http://docs.couchdb.org/)
 - [FAQ (old wiki)](https://wiki.apache.org/couchdb/Frequently_asked_questions) - Seems to have more faqs than the [new wiki](https://cwiki.apache.org/confluence/display/COUCHDB/Frequently+Asked+Questions).
 
 ## Books
 
-- [CouchDB - The Definitive Guide](http://guide.couchdb.org/)
-- [List of books on the CouchDB Wiki](https://cwiki.apache.org/confluence/display/COUCHDB/Books)
+- [The Definitive Guide](http://guide.couchdb.org/)
+- [List of books on the Wiki](https://cwiki.apache.org/confluence/display/COUCHDB/Books)
 
 
 ## Videos
 
-- [10 Common Misconceptions about CouchDB ](https://www.youtube.com/watch?v=BKQ9kXKoHS810) - More videos from this [conference](http://conf.couchdb.org/).
+- [10 Common Misconceptions](https://www.youtube.com/watch?v=BKQ9kXKoHS810) - More videos from this [conference](http://conf.couchdb.org/).
 - [The NoSQL Tapes](http://nosqltapes.com) - CouchDB is discussed on [Volume 5 - CouchDB](http://nosqltapes.com/video/hoffman-and-kocoloski-on-cloudant-and-couchdb), [Volume 8 - MapReduce](http://nosqltapes.com/video/understanding-mapreduce-with-mike-miller).
-- [Scaling Out CouchDB with BigCouch](http://www.oreilly.com/pub/e/1760)
+- [Scaling Out with BigCouch](http://www.oreilly.com/pub/e/1760)
 - [IBM - The New Builders Webinar Series](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&partnerref=cdc&eventid=1240121&sessionid=1&key=9E23B44802902EAD0BB2603F0434742E&regTag=35370&sourcepage=register)
 
 
@@ -92,7 +92,7 @@ Pull-Requests are welcomed.
 
 - [IRC](http://webchat.freenode.net/?channels=couchdb) - `irc://irc.freenode.net/couchdb`
 - [Apache CouchDB Conf](http://conf.couchdb.org/) - Lots of video links.
-- [CouchDB Bylaws](http://couchdb.apache.org/bylaws.html), [Minutes](https://whimsy.apache.org/board/minutes/CouchDB.html)
+- [Bylaws](http://couchdb.apache.org/bylaws.html), [Minutes](https://whimsy.apache.org/board/minutes/CouchDB.html)
 
 
 ### Mailing List
