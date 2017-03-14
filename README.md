@@ -102,8 +102,8 @@ Pull-Requests are welcomed.
 > -dev is appropriate if you're talking about changes to couchdb itself ("developer" doesn't mean you have to have a commit bit or anything) -rnewson
 
 - [Mailing Lists](https://mail-archives.apache.org/mod_mbox/#couchdb)
-- [Mailing lists description](http://svn.apache.org/repos/asf/couchdb/site/htdocs/community/lists.html?p=900000)
-- [grokbase](http://grokbase.com/s/couchdb) - Mailing lists in a [StackOverflow](http://stackoverflow.com/questions/tagged/couchdb)-like interface.
+- [Mailing Lists Description](http://svn.apache.org/repos/asf/couchdb/site/htdocs/community/lists.html?p=900000)
+- [Grokbase](http://grokbase.com/s/couchdb) - Mailing lists in a [Stack Overflow](http://stackoverflow.com/questions/tagged/couchdb)-like interface.
 
 
 [:star2:**The** ***Amazing*** **CouchDB Committers** *and* **Project Managers** :heart_eyes_cat:](http://people.apache.org/committers-by-project.html#couchdb) 
