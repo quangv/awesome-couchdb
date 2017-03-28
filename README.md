@@ -25,6 +25,7 @@ Pull-Requests are welcomed.
 - [Community](#community)
   - [Mailing List](#mailing-list)
   - [Companies](#companies)
+    - [Hosting](#hosting)
   - [Related Projects](#related-projects)
 - [Misc/Technical](#misctechnical)
   - [Attachments](#attachments)
@@ -111,11 +112,16 @@ Pull-Requests are welcomed.
 
 ### Companies
 
-- [Cloudant](https://cloudant.com/) - Distributed database as a service (DBaaS).
 - [Couchbase](https://www.couchbase.com/) - NoSQL database.
+- [eHealth Africa](https://github.com/eHealthAfrica)
+
+
+#### Hosting
+
+- [Cloudant](https://cloudant.com/) - Distributed database as a service (DBaaS).
 - [Smileupps](https://www.smileupps.com/) - CouchDB hosting.
 - [IrisCouch](http://www.iriscouch.com/) - Cloud CouchDB.
-- [eHealth Africa](https://github.com/eHealthAfrica)
+- [Bitnami Launchpad for Google Cloud Platform](https://bitnami.com/stack/couchdb/cloud/google) - Host CouchDB on Google Cloud Platform.
 
 
 ### Related Projects
