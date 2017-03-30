@@ -49,7 +49,7 @@ Pull-Requests are welcomed.
 - [Using View Collation](http://docs.couchdb.org/en/2.0.0/couchapp/views/joins.html#using-view-collation) - Index mapping (emits) for data joins.
 - [Views Collation](http://docs.couchdb.org/en/2.0.0/couchapp/views/collation.html) - More documentation on "View Collation".
 - [Cloudant - MapReduce and the Secondary Index (Video)](https://developer.ibm.com/clouddataservices/docs/cloudant/get-started/mapreduce-and-the-secondary-index/)
-- [Cloudant - Design Documents](https://docs.cloudant.com/design_documents.html)
+- [Cloudant - Design Documents](https://docs.cloudant.com/design_documents.html) - Cloudant's documentation is also great resource for learning concepts of CouchDB.
 - [Cloudant - Design Document Management](https://docs.cloudant.com/design_document_management.html) - How to manage design doc changes in production.
 
 
