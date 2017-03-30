@@ -46,8 +46,8 @@ Pull-Requests are welcomed.
 
 - [PouchDB - Secondary Indexes](https://pouchdb.com/2014/05/01/secondary-indexes-have-landed-in-pouchdb.html)
 - [Cloudant - MapReduce Primer](https://cloudant.com/blog/mapreduce-from-the-basics-to-the-actually-useful/#.WIDBfRsrKUl) - Great intro on reduce, group, group_level.
-- [Using View Collation](http://docs.couchdb.org/en/2.0.0/couchapp/views/joins.html#using-view-collation)
-- [Views Collation](http://docs.couchdb.org/en/2.0.0/couchapp/views/collation.html)
+- [Using View Collation](http://docs.couchdb.org/en/2.0.0/couchapp/views/joins.html#using-view-collation) - Index mapping (emits) for data joins.
+- [Views Collation](http://docs.couchdb.org/en/2.0.0/couchapp/views/collation.html) - More documentation on "View Collation".
 - [Cloudant - MapReduce and the Secondary Index (Video)](https://developer.ibm.com/clouddataservices/docs/cloudant/get-started/mapreduce-and-the-secondary-index/)
 - [Cloudant - Design Documents](https://docs.cloudant.com/design_documents.html)
 - [Cloudant - Design Document Management](https://docs.cloudant.com/design_document_management.html) - How to manage design doc changes in production.
@@ -77,7 +77,7 @@ Pull-Requests are welcomed.
 
 ## Books
 
-- [The Definitive Guide](http://guide.couchdb.org/)
+- [The Definitive Guide](http://guide.couchdb.org/) - CouchDB's _"Dog"_ Book.
 - [List of books on the Wiki](https://cwiki.apache.org/confluence/display/COUCHDB/Books)
 
 
@@ -113,7 +113,7 @@ Pull-Requests are welcomed.
 ### Companies
 
 - [Couchbase](https://www.couchbase.com/) - NoSQL database.
-- [eHealth Africa](https://github.com/eHealthAfrica)
+- [eHealth Africa](https://github.com/eHealthAfrica) - Big user of CouchDB, check out their [best practices](https://github.com/eHealthAfrica/couchdb-best-practices).
 
 
 #### Hosting
