@@ -142,7 +142,7 @@ Pull-Requests are welcomed.
 
 - [PouchDB - Attachments are overrated](https://pouchdb.com/2014/06/17/12-pro-tips-for-better-code-with-pouchdb.html) - _"Update: since this post was written, the stability and performance of attachments in PouchDB has greatly improved. ..."_
 - [Cloudant - Attachments Performance Considerations](https://docs.cloudant.com/attachments.html#performance-considerations)
-- [Are attachments duplicated for each revision?](http://grokbase.com/t/couchdb/user/14a1phbzrb/are-attachments-duplicated-for-each-revision-as-well)
+- [Are attachments duplicated for each revision?](http://grokbase.com/t/couchdb/user/14a1phbzrb/are-attachments-duplicated-for-each-revision-as-well) - Mailing list discussion about attachments across revisions.
 
 
 ### Backups
