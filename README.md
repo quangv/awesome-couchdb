@@ -147,7 +147,7 @@ Pull-Requests are welcomed.
 
 ### Backups
 
-- [Simple CouchDB and Cloudant Backup](https://developer.ibm.com/clouddataservices/2016/03/22/simple-couchdb-and-cloudant-backup/)
+- [Simple CouchDB and Cloudant Backup](https://developer.ibm.com/clouddataservices/2016/03/22/simple-couchdb-and-cloudant-backup/) - Article on IBM about backups.
 - [Cloudant Backup Guide](https://docs.cloudant.com/backup-guide.html)
 
 
