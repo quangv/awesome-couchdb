@@ -55,7 +55,7 @@ Pull-Requests are welcomed.
 
 ### Joins
 
-- [Joins with Views](http://docs.couchdb.org/en/2.0.0/couchapp/views/joins.html#joins-with-views)
+- [Joins with Views](http://docs.couchdb.org/en/2.0.0/couchapp/views/joins.html#joins-with-views) - Must read for understanding approach on doing efficient joins for CouchDB/PouchDB.
 - [Grouping related documents together in Cloudant](https://docs.cloudant.com/transactions.html) - An approach that leverages CouchDB high availability nature.
 
 
