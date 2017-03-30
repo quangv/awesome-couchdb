@@ -85,7 +85,7 @@ Pull-Requests are welcomed.
 
 - [10 Common Misconceptions](https://www.youtube.com/watch?v=BKQ9kXKoHS810) - More videos from this [conference](http://conf.couchdb.org/).
 - [The NoSQL Tapes](http://nosqltapes.com) - CouchDB is discussed on [Volume 5 - CouchDB](http://nosqltapes.com/video/hoffman-and-kocoloski-on-cloudant-and-couchdb), [Volume 8 - MapReduce](http://nosqltapes.com/video/understanding-mapreduce-with-mike-miller).
-- [Scaling Out with BigCouch](http://www.oreilly.com/pub/e/1760)
+- [Scaling Out with BigCouch](http://www.oreilly.com/pub/e/1760) - O'Reilly video on scaling out with BigCouch.
 - [IBM - The New Builders Webinar Series](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&partnerref=cdc&eventid=1240121&sessionid=1&key=9E23B44802902EAD0BB2603F0434742E&regTag=35370&sourcepage=register)
 
 
