@@ -40,6 +40,7 @@ Pull-Requests are welcomed.
 - [Best Practices](http://ehealthafrica.github.io/couchdb-best-practices/) - Best Practices, eHealth Africa.
 - [Pagination strategies with PouchDB ](https://pouchdb.com/2014/04/14/pagination-strategies-with-pouchdb.html)
 - [12 pro tips for better code with PouchDB](https://pouchdb.com/2014/06/17/12-pro-tips-for-better-code-with-pouchdb.html)
+- [Linux tuning for better CouchDB performance](https://github.com/assafmo/couchdb-linux-performance)
 
 
 ### Map/Reduce
