@@ -137,7 +137,8 @@ Pull-Requests are welcomed.
 - [Google’s paper on Sawzall](http://research.google.com/archive/sawzall.html) - Exotic Reductions Examples.
 - [What Every Developer Should Know About CouchDB](http://www.dimagi.com/blog/what-every-developer-should-know-about-couchdb/) - Article about lessons learned.
 - [CouchDB Maximum Database Size](http://www.nosql.se/2011/09/couchdb-maximum-database-size/)
-
+- [NOSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
+- [Persistent Trees in git, Clojure and CouchDB](https://eclipsesource.com/blogs/2009/12/13/persistent-trees-in-git-clojure-and-couchdb-data-structure-convergence/)
 
 ### Attachments
 
