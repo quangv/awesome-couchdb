@@ -22,6 +22,7 @@ Pull-Requests are welcomed.
 - [Docs](#docs)
 - [Books](#books)
 - [Videos](#videos)
+- [Libraries](#libraries)
 - [Community](#community)
   - [Mailing List](#mailing-list)
   - [Companies](#companies)
@@ -89,6 +90,9 @@ Pull-Requests are welcomed.
 - [Scaling Out with BigCouch](http://www.oreilly.com/pub/e/1760) - O'Reilly video on scaling out with BigCouch.
 - [IBM - The New Builders Webinar Series](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&partnerref=cdc&eventid=1240121&sessionid=1&key=9E23B44802902EAD0BB2603F0434742E&regTag=35370&sourcepage=register)
 
+## Libraries
+
+- [Jaki](https://github.com/pandeiro/jaki) - A simple ClojureScript CouchDB client
 
 ## Community
 
