@@ -13,7 +13,7 @@
 Pull-Requests are welcomed.
 
 ## Contents
-
+- [News & Blog Posts](#news--blog-posts)
 - [Patterns & Best Practices](#patterns--best-practices)
   - [Map/Reduce](#mapreduce)
   - [Joins](#joins)
@@ -35,6 +35,11 @@ Pull-Requests are welcomed.
   - [Scaling](#scaling)
 - [Resource Lists](#resource-lists)
 - [License](#license)
+
+## News & Blog Posts
+
+- [MiniCouchDB in Rust](https://www.garrensmith.com/blogs/mini-couch-hack-week)
+- [The Road to CouchDB 3.0: Prepare for 4.0](https://blog.couchdb.org/2020/02/26/the-road-to-couchdb-3-0-prepare-for-4-0/) _(02-26-2020)_
 
 ## Patterns & Best Practices
 
